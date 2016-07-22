@@ -2134,6 +2134,7 @@ en:
   web:
     topbar:
       menu: Menu
+      more: More
       search_placeholder: Search...
       user: User
       inbox: Inbox
